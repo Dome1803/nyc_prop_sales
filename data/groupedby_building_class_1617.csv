@@ -1,0 +1,193 @@
+Index,BOROUGH,BUILDING CLASS CATEGORY,VALUE COUNTS
+0,Brooklyn,02 TWO FAMILY DWELLINGS                    ,1909
+1,Brooklyn,01 ONE FAMILY DWELLINGS                    ,1358
+2,Brooklyn,10 COOPS - ELEVATOR APARTMENTS             ,996
+3,Brooklyn,03 THREE FAMILY DWELLINGS                  ,747
+4,Brooklyn,07 RENTALS - WALKUP APARTMENTS             ,464
+5,Brooklyn,13 CONDOS - ELEVATOR APARTMENTS            ,440
+6,Brooklyn,05 TAX CLASS 1 VACANT LAND                 ,235
+7,Brooklyn,29 COMMERCIAL GARAGES                      ,125
+8,Brooklyn,04 TAX CLASS 1 CONDOS                      ,117
+9,Brooklyn,22 STORE BUILDINGS                         ,103
+10,Brooklyn,09 COOPS - WALKUP APARTMENTS               ,67
+11,Brooklyn,08 RENTALS - ELEVATOR APARTMENTS           ,58
+12,Brooklyn,31 COMMERCIAL VACANT LAND                  ,57
+13,Brooklyn,14 RENTALS - 4-10 UNIT                     ,50
+14,Brooklyn,27 FACTORIES                               ,50
+15,Brooklyn,30 WAREHOUSES                              ,49
+16,Brooklyn,06 TAX CLASS 1 - OTHER                     ,38
+17,Brooklyn,12 CONDOS - WALKUP APARTMENTS              ,36
+18,Brooklyn,44 CONDO PARKING                           ,36
+19,Brooklyn,21 OFFICE BUILDINGS                        ,26
+20,Brooklyn,41 TAX CLASS 4 - OTHER                     ,25
+21,Brooklyn,32 HOSPITAL AND HEALTH FACILITIES          ,19
+22,Brooklyn,37 RELIGIOUS FACILITIES                    ,10
+23,Brooklyn,46 CONDO STORE BUILDINGS                   ,6
+24,Brooklyn,33 EDUCATIONAL FACILITIES                  ,5
+25,Brooklyn,35 INDOOR PUBLIC AND CULTURAL FACILITIES   ,5
+26,Brooklyn,43 CONDO OFFICE BUILDINGS                  ,5
+27,Brooklyn,17 CONDO COOPS                             ,3
+28,Brooklyn,38 ASYLUMS AND HOMES                       ,3
+29,Brooklyn,18 TAX CLASS 3 - UNTILITY PROPERTIES       ,2
+30,Brooklyn,23 LOFT BUILDINGS                          ,1
+31,Brooklyn,26 OTHER HOTELS                            ,1
+32,Brooklyn,36 OUTDOOR RECREATIONAL FACILITIES         ,1
+33,Brooklyn,40 SELECTED GOVERNMENTAL FACILITIES        ,1
+34,Brooklyn,47 CONDO NON-BUSINESS STORAGE              ,1
+35,Manhattan,13 CONDOS - ELEVATOR APARTMENTS            ,7501
+36,Manhattan,10 COOPS - ELEVATOR APARTMENTS             ,5952
+37,Manhattan,17 CONDO COOPS                             ,963
+38,Manhattan,09 COOPS - WALKUP APARTMENTS               ,817
+39,Manhattan,07 RENTALS - WALKUP APARTMENTS             ,709
+40,Manhattan,15 CONDOS - 2-10 UNIT RESIDENTIAL          ,259
+41,Manhattan,43 CONDO OFFICE BUILDINGS                  ,248
+42,Manhattan,47 CONDO NON-BUSINESS STORAGE              ,219
+43,Manhattan,45 CONDO HOTELS                            ,209
+44,Manhattan,08 RENTALS - ELEVATOR APARTMENTS           ,165
+45,Manhattan,01 ONE FAMILY DWELLINGS                    ,130
+46,Manhattan,02 TWO FAMILY DWELLINGS                    ,129
+47,Manhattan,21 OFFICE BUILDINGS                        ,107
+48,Manhattan,22 STORE BUILDINGS                         ,96
+49,Manhattan,26 OTHER HOTELS                            ,94
+50,Manhattan,12 CONDOS - WALKUP APARTMENTS              ,90
+51,Manhattan,31 COMMERCIAL VACANT LAND                  ,84
+52,Manhattan,46 CONDO STORE BUILDINGS                   ,82
+53,Manhattan,03 THREE FAMILY DWELLINGS                  ,80
+54,Manhattan,14 RENTALS - 4-10 UNIT                     ,78
+55,Manhattan,44 CONDO PARKING                           ,41
+56,Manhattan,23 LOFT BUILDINGS                          ,38
+57,Manhattan,16 CONDOS - 2-10 UNIT WITH COMMERCIAL UNIT ,30
+58,Manhattan,29 COMMERCIAL GARAGES                      ,26
+59,Manhattan,37 RELIGIOUS FACILITIES                    ,22
+60,Manhattan,04 TAX CLASS 1 CONDOS                      ,16
+61,Manhattan,11A CONDO-RENTALS                           ,16
+62,Manhattan,28 COMMERCIAL CONDOS                       ,14
+63,Manhattan,25 LUXURY HOTELS                           ,11
+64,Manhattan,32 HOSPITAL AND HEALTH FACILITIES          ,11
+65,Manhattan,34 THEATRES                                ,10
+66,Manhattan,36 OUTDOOR RECREATIONAL FACILITIES         ,10
+67,Manhattan,41 TAX CLASS 4 - OTHER                     ,9
+68,Manhattan,33 EDUCATIONAL FACILITIES                  ,7
+69,Manhattan,38 ASYLUMS AND HOMES                       ,6
+70,Manhattan,30 WAREHOUSES                              ,5
+71,Manhattan,42 CONDO CULTURAL/MEDICAL/EDUCATIONAL/ETC  ,5
+72,Manhattan,48 CONDO TERRACES/GARDENS/CABANAS          ,4
+73,Manhattan,49 CONDO WAREHOUSES/FACTORY/INDUS          ,4
+74,Manhattan,35 INDOOR PUBLIC AND CULTURAL FACILITIES   ,3
+75,Manhattan,18 TAX CLASS 3 - UNTILITY PROPERTIES       ,2
+76,Manhattan,27 FACTORIES                               ,2
+77,Manhattan,11 SPECIAL CONDO BILLING LOTS              ,1
+78,Manhattan,40 SELECTED GOVERNMENTAL FACILITIES        ,1
+79,Queens,02 TWO FAMILY DWELLINGS                    ,6040
+80,Queens,01 ONE FAMILY DWELLINGS                    ,3497
+81,Queens,13 CONDOS - ELEVATOR APARTMENTS            ,2817
+82,Queens,03 THREE FAMILY DWELLINGS                  ,2175
+83,Queens,10 COOPS - ELEVATOR APARTMENTS             ,2158
+84,Queens,07 RENTALS - WALKUP APARTMENTS             ,1605
+85,Queens,15 CONDOS - 2-10 UNIT RESIDENTIAL          ,956
+86,Queens,44 CONDO PARKING                           ,747
+87,Queens,04 TAX CLASS 1 CONDOS                      ,622
+88,Queens,09 COOPS - WALKUP APARTMENTS               ,537
+89,Queens,12 CONDOS - WALKUP APARTMENTS              ,424
+90,Queens,14 RENTALS - 4-10 UNIT                     ,403
+91,Queens,22 STORE BUILDINGS                         ,359
+92,Queens,05 TAX CLASS 1 VACANT LAND                 ,285
+93,Queens,29 COMMERCIAL GARAGES                      ,236
+94,Queens,31 COMMERCIAL VACANT LAND                  ,130
+95,Queens,30 WAREHOUSES                              ,125
+96,Queens,08 RENTALS - ELEVATOR APARTMENTS           ,110
+97,Queens,21 OFFICE BUILDINGS                        ,110
+98,Queens,47 CONDO NON-BUSINESS STORAGE              ,102
+99,Queens,41 TAX CLASS 4 - OTHER                     ,92
+100,Queens,27 FACTORIES                               ,80
+101,Queens,16 CONDOS - 2-10 UNIT WITH COMMERCIAL UNIT ,56
+102,Queens,43 CONDO OFFICE BUILDINGS                  ,50
+103,Queens,06 TAX CLASS 1 - OTHER                     ,46
+104,Queens,37 RELIGIOUS FACILITIES                    ,38
+105,Queens,46 CONDO STORE BUILDINGS                   ,38
+106,Queens,17 CONDO COOPS                             ,31
+107,Queens,48 CONDO TERRACES/GARDENS/CABANAS          ,31
+108,Queens,33 EDUCATIONAL FACILITIES                  ,29
+109,Queens,49 CONDO WAREHOUSES/FACTORY/INDUS          ,26
+110,Queens,11A CONDO-RENTALS                           ,22
+111,Queens,32 HOSPITAL AND HEALTH FACILITIES          ,14
+112,Queens,35 INDOOR PUBLIC AND CULTURAL FACILITIES   ,13
+113,Queens,28 COMMERCIAL CONDOS                       ,10
+114,Queens,38 ASYLUMS AND HOMES                       ,10
+115,Queens,26 OTHER HOTELS                            ,8
+116,Queens,23 LOFT BUILDINGS                          ,6
+117,Queens,36 OUTDOOR RECREATIONAL FACILITIES         ,2
+118,Queens,39 TRANSPORTATION FACILITIES               ,2
+119,Queens,42 CONDO CULTURAL/MEDICAL/EDUCATIONAL/ETC  ,2
+120,Queens,45 CONDO HOTELS                            ,2
+121,Queens,11 SPECIAL CONDO BILLING LOTS              ,1
+122,Staten Island,01 ONE FAMILY DWELLINGS                    ,4687
+123,Staten Island,02 TWO FAMILY DWELLINGS                    ,1947
+124,Staten Island,04 TAX CLASS 1 CONDOS                      ,514
+125,Staten Island,05 TAX CLASS 1 VACANT LAND                 ,329
+126,Staten Island,13 CONDOS - ELEVATOR APARTMENTS            ,168
+127,Staten Island,12 CONDOS - WALKUP APARTMENTS              ,144
+128,Staten Island,31 COMMERCIAL VACANT LAND                  ,89
+129,Staten Island,22 STORE BUILDINGS                         ,78
+130,Staten Island,03 THREE FAMILY DWELLINGS                  ,65
+131,Staten Island,09 COOPS - WALKUP APARTMENTS               ,56
+132,Staten Island,10 COOPS - ELEVATOR APARTMENTS             ,54
+133,Staten Island,29 COMMERCIAL GARAGES                      ,49
+134,Staten Island,07 RENTALS - WALKUP APARTMENTS             ,47
+135,Staten Island,21 OFFICE BUILDINGS                        ,38
+136,Staten Island,30 WAREHOUSES                              ,31
+137,Staten Island,06 TAX CLASS 1 - OTHER                     ,26
+138,Staten Island,44 CONDO PARKING                           ,26
+139,Staten Island,33 EDUCATIONAL FACILITIES                  ,14
+140,Staten Island,14 RENTALS - 4-10 UNIT                     ,11
+141,Staten Island,27 FACTORIES                               ,11
+142,Staten Island,41 TAX CLASS 4 - OTHER                     ,7
+143,Staten Island,37 RELIGIOUS FACILITIES                    ,6
+144,Staten Island,26 OTHER HOTELS                            ,4
+145,Staten Island,35 INDOOR PUBLIC AND CULTURAL FACILITIES   ,2
+146,Staten Island,38 ASYLUMS AND HOMES                       ,2
+147,Staten Island,43 CONDO OFFICE BUILDINGS                  ,2
+148,Staten Island,32 HOSPITAL AND HEALTH FACILITIES          ,1
+149,Staten Island,34 THEATRES                                ,1
+150,Staten Island,46 CONDO STORE BUILDINGS                   ,1
+151,The Bronx,01 ONE FAMILY DWELLINGS                    ,8563
+152,The Bronx,02 TWO FAMILY DWELLINGS                    ,5803
+153,The Bronx,10 COOPS - ELEVATOR APARTMENTS             ,3742
+154,The Bronx,13 CONDOS - ELEVATOR APARTMENTS            ,2063
+155,The Bronx,03 THREE FAMILY DWELLINGS                  ,1317
+156,The Bronx,09 COOPS - WALKUP APARTMENTS               ,1290
+157,The Bronx,07 RENTALS - WALKUP APARTMENTS             ,641
+158,The Bronx,44 CONDO PARKING                           ,591
+159,The Bronx,05 TAX CLASS 1 VACANT LAND                 ,399
+160,The Bronx,04 TAX CLASS 1 CONDOS                      ,387
+161,The Bronx,22 STORE BUILDINGS                         ,299
+162,The Bronx,12 CONDOS - WALKUP APARTMENTS              ,232
+163,The Bronx,17 CONDO COOPS                             ,204
+164,The Bronx,43 CONDO OFFICE BUILDINGS                  ,170
+165,The Bronx,29 COMMERCIAL GARAGES                      ,151
+166,The Bronx,14 RENTALS - 4-10 UNIT                     ,129
+167,The Bronx,30 WAREHOUSES                              ,116
+168,The Bronx,31 COMMERCIAL VACANT LAND                  ,103
+169,The Bronx,06 TAX CLASS 1 - OTHER                     ,72
+170,The Bronx,21 OFFICE BUILDINGS                        ,69
+171,The Bronx,15 CONDOS - 2-10 UNIT RESIDENTIAL          ,66
+172,The Bronx,27 FACTORIES                               ,58
+173,The Bronx,47 CONDO NON-BUSINESS STORAGE              ,55
+174,The Bronx,08 RENTALS - ELEVATOR APARTMENTS           ,49
+175,The Bronx,46 CONDO STORE BUILDINGS                   ,27
+176,The Bronx,41 TAX CLASS 4 - OTHER                     ,25
+177,The Bronx,37 RELIGIOUS FACILITIES                    ,24
+178,The Bronx,32 HOSPITAL AND HEALTH FACILITIES          ,14
+179,The Bronx,33 EDUCATIONAL FACILITIES                  ,14
+180,The Bronx,48 CONDO TERRACES/GARDENS/CABANAS          ,12
+181,The Bronx,16 CONDOS - 2-10 UNIT WITH COMMERCIAL UNIT ,10
+182,The Bronx,35 INDOOR PUBLIC AND CULTURAL FACILITIES   ,9
+183,The Bronx,26 OTHER HOTELS                            ,7
+184,The Bronx,28 COMMERCIAL CONDOS                       ,6
+185,The Bronx,42 CONDO CULTURAL/MEDICAL/EDUCATIONAL/ETC  ,6
+186,The Bronx,11A CONDO-RENTALS                           ,5
+187,The Bronx,38 ASYLUMS AND HOMES                       ,4
+188,The Bronx,23 LOFT BUILDINGS                          ,1
+189,The Bronx,25 LUXURY HOTELS                           ,1
+190,The Bronx,34 THEATRES                                ,1
+191,The Bronx,36 OUTDOOR RECREATIONAL FACILITIES         ,1

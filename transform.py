@@ -26,6 +26,8 @@ def _transform():
     print("Performing transformation...", "\n")
 
     # Dropping unnecessary column
+    #print("There are", len(sales_frame["ADDRESS"].unique()), "duplicates in the dataframe.")
+    print(sales_frame[sales_frame.ADDRESS.duplicated()])
     sales_frame = sales_frame.drop(["Unnamed: 0"], axis=1)
 
     # Changing format of boroughs to string (from int)
